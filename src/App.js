@@ -4,6 +4,7 @@ import Navbar from './Components/Navbar';
 import AutoCard from './Components/AutoCard';
 import Education from './Components/Education';
 import Work from './Components/Work';
+import Hobbies from './Components/Hobbies';
 
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
             {/* <!-- Education --> */}
           <Education/>
             {/* <!-- Hobbies --> */}
-            <div id="hobbie" class="bg-[#B2B2B2] h-50 my-6 py-8 rounded-lg border-4"></div>
+           <Hobbies/>
           </div>
           {/* <!-- /End replace --> */}
         </main>

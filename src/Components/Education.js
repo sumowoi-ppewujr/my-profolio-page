@@ -19,12 +19,13 @@ export default function Education(){
                    4.Certificate in Public Speaking and personal development skills,2020, Tarwoe Global Consultancy firm.
                    5.Certificate in Leadership skills, Business planning, personal development Skills, and Public Speaking,2021, Johah Togha School of Leadership and personal Development.
                    6.Certificate in Leadership Training,2021, Tarwoe Global Consultancy firm.
+                   7.Certificate in Graphic Design,2022,PG Graphics Enterprise.
                 </p>
               </details>
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Degree</summary>
-                <p>Engage in building the best modern Bio-septic tank for all who desire. </p>
+                <p> Bsc degree in Information Technology with concertration in system administration pending 2024.</p>
               </details>
 
             </div>
