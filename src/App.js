@@ -5,8 +5,13 @@ import AutoCard from './Components/AutoCard';
 import Education from './Components/Education';
 import Work from './Components/Work';
 import Hobbies from './Components/Hobbies';
+import {useState} from "react";
 
 function App() {
+  const[isActive, setIsActive] =useState({
+    active: true,
+    name: "education"
+  })
   return (
     <>
      <Navbar/>
@@ -17,14 +22,21 @@ function App() {
             {/* <!-- Replace with your content --> */}
 
             {/* <!-- Work --> */}
-           <AutoCard/>
+           <AutoCard isActive={isActive} setIsActive={setIsActive}/>
+          {isActive.active && isActive.name === "education" ? (
+             <Education/>
+           ) : isActive.active && isActive.name === "work" ? (
+            <Work/>
+           ) : (
+            <Hobbies/>
+           )}
 
             {/* <!-- Work --> */}
-            <Work/>
+            
             {/* <!-- Education --> */}
-          <Education/>
+          
             {/* <!-- Hobbies --> */}
-           <Hobbies/>
+           
           </div>
           {/* <!-- /End replace --> */}
         </main>
