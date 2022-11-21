@@ -6,6 +6,7 @@ export default function Projects() {
         <>
         <Navbar/>
         <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
+
     {/* <!--Card 1--> */}
     <div class="rounded overflow-hidden shadow-lg">
       <img class="w-full" src="https://picsum.photos/100/100" alt="Mountain"/>
@@ -53,7 +54,7 @@ export default function Projects() {
       </div>
     </div>
   </div>
-        
+  
         </>
     
     )
