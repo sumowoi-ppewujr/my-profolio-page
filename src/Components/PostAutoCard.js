@@ -1,13 +1,13 @@
 import React, {useState, useEffect} from 'react';
 import  {doc, getDoc} from "firebase/firestore/lite"
-import { FireBaseDB } from '../db/firebase';
+import { FirebaseDB } from '../db/firebase';
 
 export default function PostAuthorCard({authorId}) {
     const [author, setAuthor] = useState({});
     
     useEffect (() => {
         return async () => {
-            const ref = doc(FireBaseDB, "users", authorId);
+            const ref = doc(FirebaseDB, "users", authorId);
             const docSnap = await getDoc(ref);
             if (docSnap.exists()) {
                const author = docSnap.data();

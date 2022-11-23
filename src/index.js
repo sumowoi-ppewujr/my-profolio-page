@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import Projects from './routes/projects';
 import Blog from './routes/blog';
+import Contact from './routes/contact';
 
 const router = createBrowserRouter([
   {
