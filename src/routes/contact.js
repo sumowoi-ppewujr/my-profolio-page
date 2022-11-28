@@ -11,7 +11,7 @@ export default function Contact(){
          <div class="w-full lg:w-1/2 xl:w-6/12 px-4">
             <div class="max-w-[570px] mb-12 lg:mb-0">
                <span class="block mb-4 text-base text-primary font-semibold">
-               Contact Us
+               Let's Talk
                </span>
                <h2
                   class="
@@ -25,12 +25,10 @@ export default function Contact(){
                   xl:text-[40px]
                   "
                   >
-                  GET IN TOUCH WITH US
+                  GET IN TOUCH WITH ME
                </h2>
                <p class="text-base text-body-color leading-relaxed mb-9">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eius tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                  adiqua minim veniam quis nostrud exercitation ullamco
+                  Thanks so much for visiting my profolio page, However, after going through all my Information don't hesitate to leave a message if you desire to know anything else
                </p>
 
             </div>

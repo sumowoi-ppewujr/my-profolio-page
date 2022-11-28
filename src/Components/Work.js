@@ -8,17 +8,13 @@ export default function Work(){
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Eng Artz Enterprise</summary>
-                <p>Enegetic Natural and Glow Artz Enterprise, We Print, Draw, and offer quality graphics and artz services to all. .</p>
+                <p>Enegetic Natural and Glow Artz (Eng Artz Enterprise), is a printing press located at the vomoma junction that offers quality printing services to all Liberians. </p>
               </details>
 
-              <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Netipod Technology</summary>
-                <p>Engage in transofmation the minds of young people through Information Technology, most especilly Girls.</p>
-              </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Liberia Bio-Digester for All</summary>
-                <p>Engage in building the best modern Bio-septic tank for all who desire. </p>
+                <summary class="font-bold text-2xl text-gray-800">KEF Bio-Digester Solutions</summary>
+                <p> We are engage in building the best modern Bio-septic tank for people who desire. </p>
               </details>
 
             </div>

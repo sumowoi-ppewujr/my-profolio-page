@@ -7,27 +7,22 @@ export default function Hobbies(){
         </div>
 
         <details class="px-6 py-4">
-          <summary class="font-bold text-2xl text-gray-800">Gyming</summary>
-          <p>Love to go to the gym all time inorder to keep my fitness. .</p>
-        </details>
-
-        <details class="px-6 py-4">
-          <summary class="font-bold text-2xl text-gray-800">Dancing</summary>
-          <p>I am addited to dancing in the way that i do little dance almost everyday.
+          <summary class="font-bold text-2xl text-gray-800">Cooking</summary>
+          <p>I am that guy who love cooking because I spent a lot of time with my mom in the kitchen.
           </p>
         </details>
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Listening to Music</summary>
-          <p>Music inspire my soul, so i love listing to music all day.</p>
+          <p>Music inspire my soul, so I love listing to music all day.</p>
         </details>
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Comedy</summary>
-          <p>Making sure that friends are stressfree on a dialy basic is one of my prioarty.</p>
+          <p>Making sure that my friends are stressfree on a dialy basic is something that I love, so I always share fun whenever am with my friends.</p>
         </details>
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Video Game</summary>
-          <p> I am highly addited to playing video game.</p>
+          <p> I am highly addited to playing video game. Mostly, PS5, GTA, etc.</p>
         </details>
 
       </div>

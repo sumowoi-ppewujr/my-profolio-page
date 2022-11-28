@@ -20,6 +20,7 @@ export default function Education(){
                    5.Certificate in Leadership skills, Business planning, personal development Skills, and Public Speaking,2021, Johah Togha School of Leadership and personal Development.
                    6.Certificate in Leadership Training,2021, Tarwoe Global Consultancy firm.
                    7.Certificate in Graphic Design,2022,PG Graphics Enterprise.
+                   8.Certificate in Bio-Digester Engineering, 2022, Covenant Builders Vocational Training Institute.
                 </p>
               </details>
 
